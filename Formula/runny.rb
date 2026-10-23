@@ -1,8 +1,8 @@
 class Runny < Formula
   desc "Run shell commands across selected child directories from a TUI"
   homepage "https://github.com/theopoc/runny"
-  url "https://github.com/theopoc/runny/archive/refs/tags/v0.10.0.tar.gz"
-  sha256 "ae3e1dd5a1dff6bb09bd70eb47d6ac4fa8eff4cffff9cb18a4b41da8f5a05bc5"
+  url "https://github.com/theopoc/runny/archive/refs/tags/v0.11.0.tar.gz"
+  sha256 "6e134648b550f51e79e94388e587e24fabcc0483b644306358462d3a4670f146"
   license "MIT"
 
   depends_on "go" => :build
